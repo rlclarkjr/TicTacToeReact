@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/MemoryBoardReact/static/css/main.6ec93d08.css",
-    "main.js": "/MemoryBoardReact/static/js/main.b48f30ac.js",
-    "index.html": "/MemoryBoardReact/index.html",
-    "main.6ec93d08.css.map": "/MemoryBoardReact/static/css/main.6ec93d08.css.map",
-    "main.b48f30ac.js.map": "/MemoryBoardReact/static/js/main.b48f30ac.js.map"
+    "main.css": "/MemoryBoardGame/static/css/main.6ec93d08.css",
+    "main.js": "/MemoryBoardGame/static/js/main.b48f30ac.js",
+    "index.html": "/MemoryBoardGame/index.html",
+    "main.6ec93d08.css.map": "/MemoryBoardGame/static/css/main.6ec93d08.css.map",
+    "main.b48f30ac.js.map": "/MemoryBoardGame/static/js/main.b48f30ac.js.map"
   },
   "entrypoints": [
     "static/css/main.6ec93d08.css",
