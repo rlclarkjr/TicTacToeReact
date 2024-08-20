@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TicTacToeReact/static/css/main.9c5c5444.css",
-    "main.js": "/TicTacToeReact/static/js/main.836bb64d.js",
-    "index.html": "/TicTacToeReact/index.html",
-    "main.9c5c5444.css.map": "/TicTacToeReact/static/css/main.9c5c5444.css.map",
-    "main.836bb64d.js.map": "/TicTacToeReact/static/js/main.836bb64d.js.map"
+    "main.css": "/MemoryBoardReact/static/css/main.6ec93d08.css",
+    "main.js": "/MemoryBoardReact/static/js/main.b48f30ac.js",
+    "index.html": "/MemoryBoardReact/index.html",
+    "main.6ec93d08.css.map": "/MemoryBoardReact/static/css/main.6ec93d08.css.map",
+    "main.b48f30ac.js.map": "/MemoryBoardReact/static/js/main.b48f30ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c5c5444.css",
-    "static/js/main.836bb64d.js"
+    "static/css/main.6ec93d08.css",
+    "static/js/main.b48f30ac.js"
   ]
 }
