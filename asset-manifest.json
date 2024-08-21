@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/MemoryGameReact/static/css/main.f855e6bc.css",
-    "main.js": "/MemoryGameReact/static/js/main.6cbfe901.js",
-    "static/js/453.ed3810f9.chunk.js": "/MemoryGameReact/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/MemoryGameReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/MemoryGameReact/index.html",
-    "main.f855e6bc.css.map": "/MemoryGameReact/static/css/main.f855e6bc.css.map",
-    "main.6cbfe901.js.map": "/MemoryGameReact/static/js/main.6cbfe901.js.map",
-    "453.ed3810f9.chunk.js.map": "/MemoryGameReact/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/TicTacToeReact/static/css/main.9c5c5444.css",
+    "main.js": "/TicTacToeReact/static/js/main.836bb64d.js",
+    "index.html": "/TicTacToeReact/index.html",
+    "main.9c5c5444.css.map": "/TicTacToeReact/static/css/main.9c5c5444.css.map",
+    "main.836bb64d.js.map": "/TicTacToeReact/static/js/main.836bb64d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6cbfe901.js"
+    "static/css/main.9c5c5444.css",
+    "static/js/main.836bb64d.js"
   ]
 }
